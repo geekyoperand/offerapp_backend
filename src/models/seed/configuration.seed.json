@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Referring User Points",
+        "code": "REFERRING_USER_POINTS",
+        "value": 20
+    },
+    {
+        "name": "Tax percentage of order",
+        "code": "ORDER_TAX_PERCENT",
+        "value": 4.5
+    },
+    {
+        "name": "Bob",
+        "code": "MAX_POINTS_USE_PER_ORDER",
+        "value": 300
+    },
+    {
+        "name": "Referred User Points",
+        "code": "REFERRED_USER_POINTS",
+        "value": 20
+    }
+]

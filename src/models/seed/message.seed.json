@@ -1,0 +1,968 @@
+[{
+    "code": "AUTH001",
+    "text": "Phone number already exists",
+    "isDeleted": false
+  },{
+    "code": "AUTH002",
+    "text": "Email is already in use",
+    "isDeleted": false
+  },{
+    "code": "AUTH003",
+    "text": "OTP sent successfully",
+    "isDeleted": false
+  },{
+    "code": "AUTH004",
+    "text": "Invalid OTP",
+    "isDeleted": false
+  },{
+    "code": "AUTH005",
+    "text": "User already exists with email and phoneNumber",
+    "isDeleted": false
+  },{
+    "code": "AUTH006",
+    "text": "Error while registering user. Please contact support.",
+    "isDeleted": false
+  },{
+    "code": "AUTH007",
+    "text": "Inadequate password strength",
+    "isDeleted": false
+  },{
+    "code": "AUTH008",
+    "text": "Unable to verify Google login token",
+    "isDeleted": false
+  },{
+    "code": "AUTH009",
+    "text": "Account details already added",
+    "isDeleted": false
+  },{
+    "code": "AUTH010",
+    "text": "Required Account details added successfully",
+    "isDeleted": false
+  },{
+    "code": "AUTH011",
+    "text": "Please use your google account to login",
+    "isDeleted": false
+  },{
+    "code": "AUTH012",
+    "text": "Verification email sent successfully",
+    "isDeleted": false
+  },{
+    "code": "AUTH013",
+    "text": "Email already verified",
+    "isDeleted": false
+  },{
+    "code": "AUTH014",
+    "text": "Registeration successfull",
+    "isDeleted": false
+  },{
+    "code": "AUTH015",
+    "text": "User found successfully",
+    "isDeleted": false
+  },{
+    "code": "AUTH016",
+    "text": "User not found",
+    "isDeleted": false
+  },{
+    "code": "AUTH017",
+    "text": "Email does not exists",
+    "isDeleted": false
+  },{
+    "code": "AUTH018",
+    "text": "Forgot password email sent successfully",
+    "isDeleted": false
+  },{
+    "code": "AUTH019",
+    "text": "Invalid refferal code",
+    "isDeleted": false
+  },{
+    "code": "AUTH020",
+    "text": "User fetched successfully",
+    "isDeleted": false
+  },{
+    "code": "AUTH021",
+    "text": "Profile updated successfully",
+    "isDeleted": false
+  },
+  
+
+
+
+  {
+    "code": "BNR001",
+    "text": "Banner created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "BNR002",
+    "text": "Banners fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "BNR003",
+    "text": "Active banners fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "BNR004",
+    "text": "Banner not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "BNR005",
+    "text": "Banner fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "BNR006",
+    "text": "Banner updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "BNR007",
+    "text": "Banner deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CRT001",
+    "text": "Cart created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CRT002",
+    "text": "Carts fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CRT003",
+    "text": "Cart not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "CRT004",
+    "text": "My cart fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CRT005",
+    "text": "Cart fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CRT006",
+    "text": "Cart updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CRT007",
+    "text": "Cart deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN001",
+    "text": "Configuration created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN002",
+    "text": "Configurations fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN003",
+    "text": "Configurations fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN004",
+    "text": "Configuration not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN005",
+    "text": "Configuration fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN006",
+    "text": "Configuration updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN007",
+    "text": "Configuration deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN001",
+    "text": "Coupon created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN002",
+    "text": "Coupons fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN003",
+    "text": "Cart not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN004",
+    "text": "Cart items not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN005",
+    "text": "Coupon either does not exists or is not active.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN006",
+    "text": "Coupon not applicable on selected place.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN007",
+    "text": "Coupon not active at this time.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN008",
+    "text": "Coupon not applicable because they are all exhausted.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN009",
+    "text": "Coupon not applicable because you have used it max times.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN010",
+    "text": "Coupon applied successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN011",
+    "text": "Cannot remove coupon as no coupon is applied yet.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN012",
+    "text": "Coupon removed successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN013",
+    "text": "Active coupons fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN014",
+    "text": "Coupon not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN015",
+    "text": "Coupon fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN016",
+    "text": "Coupon updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN017",
+    "text": "Coupon deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN018",
+    "text": "Coupon not applicable on selected slot on selected place.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN019",
+    "text": "Minimum tickets need to be added",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN020",
+    "text": "Only applicable for first order",
+    "isDeleted": false
+  },
+  {
+    "code": "CPN021",
+    "text": "Min cart value not maintained",
+    "isDeleted": false
+  },
+  {
+    "code": "CPNHSTRY001",
+    "text": "Coupon Applied History created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPNHSTRY002",
+    "text": "Coupon Applied Histories fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPNHSTRY003",
+    "text": "Coupon Applied History not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPNHSTRY004",
+    "text": "Coupon Applied History fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPNHSTRY005",
+    "text": "Coupon Applied History updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CPNHSTRY006",
+    "text": "Coupon Applied History deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN001",
+    "text": "Configuration created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN002",
+    "text": "Configurations fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN003",
+    "text": "Configurations fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN004",
+    "text": "Configuration not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN005",
+    "text": "Configuration fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN006",
+    "text": "Configuration updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CNFGRTN007",
+    "text": "Configuration deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CTGRY001",
+    "text": "Category created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CTGRY002",
+    "text": "Categories fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CTGRY003",
+    "text": "Categories fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CTGRY004",
+    "text": "Category not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "CTGRY005",
+    "text": "Category fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CTGRY006",
+    "text": "Category updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "CTGRY007",
+    "text": "Category deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FVRT001",
+    "text": "Place unmarked as favorite successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FVRT002",
+    "text": "Place marked as favorite successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FVRT003",
+    "text": "Favorite places fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FVRT004",
+    "text": "Favorite place not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "FVRT005",
+    "text": "Favorite place fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FVRT006",
+    "text": "Favorite place updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FVRT007",
+    "text": "Favorite place deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK001",
+    "text": "QueryTicket created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK002",
+    "text": "QueryTickets fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK003",
+    "text": "QueryTicket status updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK004",
+    "text": "QueryTicket comment added successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK005",
+    "text": "QueryTicket comment deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK006",
+    "text": "QueryTicket not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK007",
+    "text": "QueryTicket fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK008",
+    "text": "QueryTicket is closed so can't able to update.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK009",
+    "text": "QueryTicket updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FDBCK010",
+    "text": "QueryTicket deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FLD001",
+    "text": "Field created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FLD002",
+    "text": "Fields fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FLD003",
+    "text": "Field not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "FLD004",
+    "text": "Field fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FLD005",
+    "text": "Field updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FLD006",
+    "text": "Field deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FRM001",
+    "text": "Form created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FRM002",
+    "text": "Forms fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FRM003",
+    "text": "Form not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "FRM004",
+    "text": "Form fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FRM005",
+    "text": "Form updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "FRM006",
+    "text": "Form deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "HM001",
+    "text": "Welcom to dayout. We are serving day & night.",
+    "isDeleted": false
+  },
+  {
+    "code": "LCTN001",
+    "text": "LocationHistory created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LCTN002",
+    "text": "LocationHistories fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LCTN003",
+    "text": "LocationHistory not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "LCTN004",
+    "text": "LocationHistory fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LCTN005",
+    "text": "LocationHistory updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LCTN006",
+    "text": "LocationHistory deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LKP001",
+    "text": "Lookup created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LKP002",
+    "text": "Lookups fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LKP003",
+    "text": "All Lookups fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LKP004",
+    "text": "Lookup not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "LKP005",
+    "text": "Lookup fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LKP006",
+    "text": "Lookup updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "LKP007",
+    "text": "Lookup deleted successfully.",
+    "isDeleted": false
+  },
+
+  {
+    "code": "MSG001",
+    "text": "Message created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "MSG002",
+    "text": "Messages fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "MSG003",
+    "text": "All Messages fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "MSG004",
+    "text": "Message not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "MSG005",
+    "text": "Message found successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "MSG006",
+    "text": "Message updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "MSG007",
+    "text": "Message deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "NTFN001",
+    "text": "Notification created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "NTFN002",
+    "text": "Notificatons fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "NTFN003",
+    "text": "Notification not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "NTFN004",
+    "text": "Notification fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "NTFN005",
+    "text": "Notification updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "NTFN006",
+    "text": "Notification deleted successfully.",
+    "isDeleted": false
+  },
+
+  {
+    "code": "ORDR001",
+    "text": "Selected place not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "ORDR002",
+    "text": "Order created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "ORDR003",
+    "text": "Orders fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "ORDR004",
+    "text": "Order not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "ORDR005",
+    "text": "Order fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "ORDR006",
+    "text": "Order updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "ORDR007",
+    "text": "Order deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "ORDR008",
+    "text": "Order already rated.",
+    "isDeleted": false
+  },
+  {
+    "code": "ORDR009",
+    "text": "Thanks for rating. Your feedback matters for us.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC001",
+    "text": "Place created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC002",
+    "text": "Places fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC003",
+    "text": "Place not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC004",
+    "text": "Place fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC005",
+    "text": "Place price updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC006",
+    "text": "Place updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC007",
+    "text": "Place deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC008",
+    "text": "Places searched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC009",
+    "text": "Place doesnot exist.",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC010",
+    "text": "Slot created successfully",
+    "isDeleted": false
+  },
+  {
+    "code": "PLC011",
+    "text": "Slot not found",
+    "isDeleted": false
+  },
+
+  {
+    "code": "PNTHSTRY001",
+    "text": "Point history created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PNTHSTRY002",
+    "text": "Point histories fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PNTHSTRY003",
+    "text": "Point history deleted successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PNTHSTRY004",
+    "text": "Point history fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PNTHSTRY005",
+    "text": "Point history updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PNTHSTRY006",
+    "text": "Point history deleted successfully.",
+    "isDeleted": false
+  },
+
+  {
+    "code": "PRCHSTRY001",
+    "text": "Price history created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PRCHSTRY002",
+    "text": "Price histories fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PRCHSTRY003",
+    "text": "Price hsitory not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "PRCHSTRY004",
+    "text": "Price history fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PRCHSTRY005",
+    "text": "Price history updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "PRCHSTRY006",
+    "text": "Price history deleted successfully.",
+    "isDeleted": false
+  },
+
+  {
+    "code": "RFFRLHSTRY001",
+    "text": "Refferal history created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "RFFRLHSTRY002",
+    "text": "Refferal histories fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "RFFRLHSTRY003",
+    "text": "Refferal history not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "RFFRLHSTRY004",
+    "text": "Refferal history fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "RFFRLHSTRY005",
+    "text": "Refferal history updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "RFFRLHSTRY006",
+    "text": "Refferal history deleted successfully.",
+    "isDeleted": false
+  },
+
+  {
+    "code": "TRNSCTN001",
+    "text": "Transaction created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "TRNSCTN002",
+    "text": "Transactions fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "TRNSCTN003",
+    "text": "Transaction not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "TRNSCTN004",
+    "text": "Transaction fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "TRNSCTN005",
+    "text": "Transaction updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "TRNSCTN006",
+    "text": "Transaction deleted successfully.",
+    "isDeleted": false
+  },
+
+  {
+    "code": "USR001",
+    "text": "User created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "USR002",
+    "text": "Users fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "USR003",
+    "text": "User not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "USR004",
+    "text": "User fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "USR005",
+    "text": "User updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "USR006",
+    "text": "User deleted successfully.",
+    "isDeleted": false
+  },
+
+  {
+    "code": "VWHSTRY001",
+    "text": "View history created successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "VWHSTRY002",
+    "text": "View histories fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "VWHSTRY003",
+    "text": "View history not found.",
+    "isDeleted": false
+  },
+  {
+    "code": "VWHSTRY004",
+    "text": "View history fetched successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "VWHSTRY005",
+    "text": "View history updated successfully.",
+    "isDeleted": false
+  },
+  {
+    "code": "VWHSTRY006",
+    "text": "View history deleted successfully.",
+    "isDeleted": false
+  }
+]
